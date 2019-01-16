@@ -13,7 +13,7 @@ def argue(var)
 end
 
 def greeting(greeting, name)
-  
+  puts "#{greeting} #{name}!"
 end
 
 def return_a_value
