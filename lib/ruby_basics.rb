@@ -1,9 +1,10 @@
 def division(num1, num2)
- 
+ total = num1 / num2
+ return total
 end
 
 def assign_variable(value)
-  
+  value
 end
 
 def argue
