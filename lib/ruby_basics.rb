@@ -12,8 +12,8 @@ def argue(var)
   var
 end
 
-def greeting
-
+def greeting(greeting, name)
+  
 end
 
 def return_a_value
